@@ -2,7 +2,7 @@
 
 > A stunning 3D website that brings the beloved Minecraft aesthetic to life through cutting-edge web technologies.
 
-**[🌐 Live Demo](http://woanminecraftfolio.com/)** | **[📁 Blender Assets](https://drive.google.com/drive/folders/1xrkCNELEefpR9clwLTjk-HQ2uRkQzaHy?usp=sharing)**
+**[🌐 Live Demo](https://my-minecraft.vercel.app/)** | **[📁 Blender Assets](https://drive.google.com/drive/folders/1xrkCNELEefpR9clwLTjk-HQ2uRkQzaHy?usp=sharing)**
 
 ![Portfolio Preview](public/media/og/og-image.webp?raw=true "Interactive Minecraft-style portfolio homepage")
 
