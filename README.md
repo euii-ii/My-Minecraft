@@ -4,12 +4,6 @@
 
 ![Home page screenshot](public/media/og/og-image.webp?raw=true "Home page screenshot")
 
-## 🏆 Awards
-
-- [FWA of the Day](https://thefwa.com/cases/educational-minecraft-folio)
-- [Awwwards Honorable Mention](https://www.awwwards.com/sites/educational-minecraft-folio)
-- [CSSDA Special Kudos and Best UI/UX/Innovation Awards](https://www.cssdesignawards.com/sites/educational-minecraft-folio/46808/)
-
 ---
 
 ## ✨ Features
