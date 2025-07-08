@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-This portfolio transcends traditional web experiences by immersing visitors in a fully interactive 3D Minecraft-inspired world. Built with modern web technologies, it showcases creative projects through explorable environments, interactive elements, and stunning visual effects.
+This model transcends traditional web experiences by immersing visitors in a fully interactive 3D Minecraft-inspired world. Built with modern web technologies, it showcases creative projects through explorable environments, interactive elements, and stunning visual effects.
 
 ## ✨ Key Features
 
