@@ -1,4 +1,4 @@
-# 🎮 Immersive Minecraft Portfolio
+# 🎮 Immersive Minecraft Model
 
 > A stunning 3D portfolio website that brings the beloved Minecraft aesthetic to life through cutting-edge web technologies.
 
