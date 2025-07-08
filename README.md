@@ -1,6 +1,6 @@
 # 🎮 Immersive Minecraft Model
 
-> A stunning 3D portfolio website that brings the beloved Minecraft aesthetic to life through cutting-edge web technologies.
+> A stunning 3D website that brings the beloved Minecraft aesthetic to life through cutting-edge web technologies.
 
 **[🌐 Live Demo](http://woanminecraftfolio.com/)** | **[📁 Blender Assets](https://drive.google.com/drive/folders/1xrkCNELEefpR9clwLTjk-HQ2uRkQzaHy?usp=sharing)**
 
